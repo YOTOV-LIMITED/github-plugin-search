@@ -1,0 +1,6 @@
+{
+  "name": "GitHub-plugin-search",
+  "tagline": "Search and install WordPress plugins from Github.",
+  "body": "Read about Github Plugin Search and watch a demo video at [WordPress Tavern](http://www.wptavern.com/how-to-install-wordpress-plugins-directly-from-github).\r\n\r\n### Changelog\r\n\r\n#### 0.3\r\n\r\n* Display author name, avatar, and links to author profile and plugin page. [View screenshot](https://dl.dropboxusercontent.com/s/ay0igfc2rrziotc/git-plugin-search-author-avatars.png).\r\n* Hide version and rating. Can't display these yet -- not without additional API calls.\r\n\r\n#### 0.2\r\n\r\n* WordPress 3.7 compatibility.\r\n* Require minimum amount of stars for repos to show up in search results.\r\n\r\n#### 0.1\r\n\r\n* Initial release.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
